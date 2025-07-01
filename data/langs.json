@@ -1,0 +1,21 @@
+{
+    "en": {
+      "dir": "ltr",
+      "title": "Respected Anger",
+      "dark": "Dark Mode",
+      "light": "Light Mode"
+    },
+    "es": {
+      "dir": "ltr",
+      "title": "Ira Respetada",
+      "dark": "Modo Oscuro",
+      "light": "Modo Claro"
+    },
+    "fa": {
+      "dir": "rtl",
+      "title": "خشم محترم",
+      "dark": "حالت تاریک",
+      "light": "حالت روشن"
+    }
+  }
+  
