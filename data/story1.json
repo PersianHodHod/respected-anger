@@ -1,15 +1,18 @@
 {
-    "en": {
-      "text": "John grew up in a violent household. As a child, no one helped him escape. Later, his suppressed pain turned to rage.",
-      "source": "Based on a real interview"
-    },
-    "es": {
-      "text": "John creció en un hogar violento. De niño, nadie lo ayudó a escapar. Más tarde, su dolor reprimido se convirtió en rabia.",
-      "source": "Basado en una entrevista real"
-    },
-    "fa": {
-      "text": "جان در یک خانواده خشونت‌بار بزرگ شد. در کودکی کسی به او کمکی نکرد. بعدها درد سرکوب‌شده‌اش به خشم تبدیل شد.",
-      "source": "بر اساس یک مصاحبه واقعی"
-    }
+  "en": {
+    "text": "John grew up in a violent household. As a child, no one helped him escape. Later, his suppressed pain turned to rage.",
+    "source": "Based on a real interview"
+  },
+  "es": {
+    "text": "John creció en un hogar violento. De niño, nadie lo ayudó a escapar. Más tarde, su dolor reprimido se convirtió en rabia.",
+    "source": "Basado en una entrevista real"
+  },
+  "fa": {
+    "text": "جان در یک خانواده خشونت‌بار بزرگ شد. در کودکی کسی به او کمکی نکرد. بعدها درد سرکوب‌شده‌اش به خشم تبدیل شد.",
+    "source": "بر اساس یک مصاحبه واقعی"
+  },
+  "ar": {
+    "text": "نشأ جون في منزل مليء بالعنف. في طفولته، لم يساعده أحد على الهروب. لاحقًا، تحوّل ألمه المكبوت إلى غضب.",
+    "source": "بناءً على مقابلة حقيقية"
   }
-  
+}
