@@ -1,31 +1,65 @@
 body.light-mode {
-    background-color: #ffffff;
-    color: #000000;
-  }
-  
-  body.dark-mode {
-    background-color: #121212;
-    color: #f0f0f0;
-  }
-  
-  #maskContainer img {
-    cursor: pointer;
-    transition: transform 0.2s;
-    width: 120px;
-    margin: 10px;
-    border-radius: 8px;
-  }
-  
-  #maskContainer img:hover {
-    transform: scale(1.1);
-  }
-  
-  .modal-content {
-    background-color: inherit;
-    color: inherit;
-  }
-  
-  .btn:focus {
-    box-shadow: none;
-  }
-  
+  background-color: #ffffff;
+  color: #000000;
+}
+
+body.dark-mode {
+  background-color: #121212;
+  color: #f0f0f0;
+}
+
+#maskContainer img {
+  cursor: pointer;
+  transition: transform 0.2s;
+  width: 120px;
+  margin: 10px;
+  border-radius: 8px;
+}
+
+#maskContainer img:hover {
+  transform: scale(1.1);
+}
+
+.modal-content {
+  background-color: inherit;
+  color: inherit;
+}
+
+.btn:focus {
+  box-shadow: none;
+}
+
+#introText p {
+  margin-bottom: 1rem;
+}
+
+body.dark-mode .modal-content,
+body.dark-mode #storySource {
+  background-color: #1e1e1e;
+  color: #f0f0f0;
+}
+
+body.dark-mode .modal-header {
+  border-bottom: 1px solid #333;
+}
+
+body.dark-mode .modal-body {
+  border-top: none;
+}
+
+body.dark-mode .modal-title {
+  color: #f0f0f0 !important;
+}
+
+body.dark-mode .btn-close {
+  filter: invert(1);
+  opacity: 1;
+}
+
+body.dark-mode #storySource {
+  color: #bbb !important;
+}
+
+.modal-content {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
