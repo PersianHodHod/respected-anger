@@ -41,7 +41,15 @@ function loadIntro() {
   fetch('data/intro.json')
     .then(res => res.json())
     .then(data => {
-      document.getElementById('introText').innerText = data[currentLang] || data['en'];
+      const introContainer = document.getElementById('introText');
+      const introContent = data[currentLang] || data['en'] || [];
+
+      introContainer.innerHTML = ''; // Clear old content
+      introContent.forEach(paragraph => {
+        const p = document.createElement('p');
+        p.textContent = paragraph;
+        introContainer.appendChild(p);
+      });
     });
 }
 

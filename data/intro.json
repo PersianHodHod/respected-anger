@@ -1,6 +1,17 @@
 {
-    "en": "Some anger deserves to be respected. Many people we judge today as criminals or wrongdoers were once innocent individuals who suffered greatly. Their pain was ignored by society. Their anger was a cry for help that no one heard.",
-    "es": "Algunas iras merecen respeto. Muchas personas que hoy juzgamos como criminales o delincuentes fueron una vez individuos inocentes que sufrieron mucho. Su dolor fue ignorado por la sociedad. Su ira fue un grito de ayuda que nadie escuchó.",
-    "fa": "برخی خشم‌ها شایسته احترام هستند. بسیاری از کسانی که امروز به عنوان مجرم شناخته می‌شوند، زمانی انسان‌های بی‌گناهی بودند که رنج زیادی کشیده‌اند. جامعه درد آن‌ها را نادیده گرفت. خشم آن‌ها فریادی برای کمک بود که هیچ‌کس آن را نشنید."
-  }
-  
+  "en": [
+    "Some anger deserves to be respected.",
+    "Many people we judge today as criminals or wrongdoers were once innocent individuals who suffered greatly.",
+    "Their pain was ignored by society. Their anger was a cry for help that no one heard."
+  ],
+  "es": [
+    "Algunas iras merecen respeto.",
+    "Muchas personas que hoy juzgamos como criminales o delincuentes fueron una vez individuos inocentes que sufrieron mucho.",
+    "Su dolor fue ignorado por la sociedad. Su ira fue un grito de ayuda que nadie escuchó."
+  ],
+  "fa": [
+    "برخی خشم‌ها شایسته احترام هستند.",
+    "بسیاری از کسانی که امروز به عنوان مجرم شناخته می‌شوند، زمانی انسان‌های بی‌گناهی بودند که رنج زیادی کشیده‌اند.",
+    "جامعه درد آن‌ها را نادیده گرفت. خشم آن‌ها فریادی برای کمک بود که هیچ‌کس آن را نشنید."
+  ]
+}
